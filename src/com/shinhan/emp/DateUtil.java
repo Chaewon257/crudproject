@@ -3,7 +3,7 @@ package com.shinhan.emp;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-//???
+//????
 public class DateUtil {
 	public static String convertToString(Date d1) {
 		SimpleDateFormat sdf = new SimpleDateFormat("yyy-MM-dd HH:mm:ss"); 

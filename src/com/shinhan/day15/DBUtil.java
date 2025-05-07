@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-// Oracle에 DB연동...?
+// Oracle에 DB연동...??
 public class DBUtil {
 	// DB 연결함수
 	public static Connection getConnection() {
